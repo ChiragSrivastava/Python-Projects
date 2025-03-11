@@ -1,5 +1,7 @@
 # Python Project Repository...
-    Welcome to my Python repository! Here, I store and share a collection of Python scripts and projects that I work on. This repository is my space for experimenting with different coding techniques, solving problems, and improving my skills. The repository includes:
+    Welcome to my Python repository! 
+    Here, I store and share a collection of Python scripts and projects that I work on. 
+    This repository is my space for experimenting with different coding techniques, solving problems, and improving my skills. The repository includes:
 
 ## Things i commonly do in Repo / Objectives
     -> Code snippets for common programming problems and algorithms.    
